@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Tommy Khoo",
+        "id": "U007",
+        "rating": 1,
+        "feedback": "The adoption of ChatGPT has been disappointing. The training was inadequate, and the newsletters are not helpful. I prefer traditional methods."
+    },
+    {
+        "name": "Jessie Ang",
+        "id": "U006",
+        "rating": 2,
+        "feedback": "I struggled to see the benefit of using ChatGPT for emails. The training was not engaging, and the newsletters did not address my concerns."
+    },
+    {
+        "name": "Joel Loh",
+        "id": "U003",
+        "rating": 3,
+        "feedback": "The initiative is promising, but the initial training felt too basic. The newsletters are informative, but more interactive content would be beneficial."
+    },
+    {
+        "name": "Bob Smith",
+        "id": "U002",
+        "rating": 4,
+        "feedback": "ChatGPT has improved my email efficiency. The training was helpful, though I would appreciate more advanced sessions. The newsletters are a great resource."
+    },
+    {
+        "name": "Eva Green",
+        "id": "U005",
+        "rating": 4,
+        "feedback": "I find ChatGPT useful for drafting emails. The training sessions were good, but I suggest including more real-world examples. The newsletters are very helpful."
+    },
+    {
+        "name": "Alice Johnson",
+        "id": "U001",
+        "rating": 5,
+        "feedback": "The adoption of ChatGPT in email writing has been transformative. The training sessions were comprehensive and the newsletters keep us updated with best practices."
+    },
+    {
+        "name": "David Brown",
+        "id": "U004",
+        "rating": 5,
+        "feedback": "Excellent initiative! The training was thorough and the newsletters provide valuable tips. ChatGPT has significantly enhanced my email writing skills."
+    }
+]
