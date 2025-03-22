@@ -1,5 +1,65 @@
 [
     {
+        "name": "Jessie Ang",
+        "id": "U008",
+        "rating": 2,
+        "feedback": "ChatGPT is not intuitive. I often find myself confused about how to use it effectively. The training didn't cover enough practical scenarios."
+    },
+    {
+        "name": "Joel Tan",
+        "id": "U009",
+        "rating": 4,
+        "feedback": "Once I got the hang of it, ChatGPT became a valuable tool for drafting emails. However, the initial learning curve was steep."
+    },
+    {
+        "name": "Linda Wong",
+        "id": "U010",
+        "rating": 3,
+        "feedback": "I see potential in ChatGPT, but I'm concerned about data privacy. More transparency on how data is handled would be reassuring."
+    },
+    {
+        "name": "James Lim",
+        "id": "U011",
+        "rating": 1,
+        "feedback": "I don't see the relevance of ChatGPT in my daily tasks. It feels like an unnecessary addition to my workflow."
+    },
+    {
+        "name": "Emily Chen",
+        "id": "U012",
+        "rating": 5,
+        "feedback": "ChatGPT has been a game-changer for me. It saves time and enhances my productivity. I just wish the training was more comprehensive."
+    },
+    {
+        "name": "Robert Chua",
+        "id": "U013",
+        "rating": 2,
+        "feedback": "The interface is not user-friendly. I often struggle to find the features I need. More user guides would be helpful."
+    },
+    {
+        "name": "Karen Ng",
+        "id": "U014",
+        "rating": 4,
+        "feedback": "I find ChatGPT useful, but I worry about the security of my personal information. Clearer privacy policies would ease my concerns."
+    },
+    {
+        "name": "Steven Koh",
+        "id": "U015",
+        "rating": 3,
+        "feedback": "The tool is okay, but I don't use it much. It doesn't seem to fit well with my current work processes."
+    },
+    {
+        "name": "Jessica Tan",
+        "id": "U016",
+        "rating": 5,
+        "feedback": "I love using ChatGPT! It's intuitive and has improved my workflow significantly. The newsletters are a great resource for tips."
+    },
+    {
+        "name": "Daniel Ong",
+        "id": "U017",
+        "rating": 1,
+        "feedback": "I find ChatGPT difficult to use and not very helpful. The training was inadequate, and I don't see its relevance in my role."
+    },
+    {
         "name": "Tommy Khoo",
         "id": "U007",
         "rating": 1,
@@ -41,4 +101,5 @@
         "rating": 5,
         "feedback": "Excellent initiative! The training was thorough and the newsletters provide valuable tips. ChatGPT has significantly enhanced my email writing skills."
     }
+
 ]
