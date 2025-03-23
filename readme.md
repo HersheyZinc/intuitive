@@ -1,15 +1,23 @@
 ## Introduction
-The rapid changes in Artificial Intelligence (AI) has prompted organizations to accelerate their digital transformation initiatives. Organizational employees, including the change management professionals themselves, face the need to upskill and incorporate AI tools into their workflows. Consequently, our team proposes the Change Management Dashboard - an AI platform to assist change management professionals in strategizing and communicating business impacts. Overall, our proposed solution comprises of the following features:
-1. A Large Language Model (LLM) chatbot with expertise in change management.
-2. An interactive dashboard to analyze and summarize employee feedback.
-3. A deployment simulation to predict employee response to new policies.
-4. An iterative framework for continuously refining change management policies based on employee feedback.
 
+In the fast-evolving landscape of Artificial Intelligence (AI), organizations are compelled to fast-track their digital transformation efforts. Employees across the board, including change management professionals, must enhance their skills and integrate AI tools into their daily operations. In response to this need, we present the **Change Management Dashboard**—an AI-driven platform designed to aid change management professionals in strategizing and effectively communicating business impacts. Our comprehensive solution offers the following features:
 
-## How to use
-1. install the required dependencies using `pip install requirements.txt`
-2. run the streamlit web application with `streamlit run demo.py`
+1. **LLM Chatbot**: A Large Language Model chatbot specialized in change management.
+2. **Interactive Dashboard**: Tools to analyze and summarize employee feedback.
+3. **Deployment Simulation**: Predictive models to gauge employee responses to new policies.
+4. **Iterative Framework**: A system for the continuous refinement of change management policies based on employee feedback.
 
-To see a demonstration of the Change Management Dashboard in action, please watch the video below:
+## How to Use
+
+1. Install the required dependencies using:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Launch the Streamlit web application with:
+   ```bash
+   streamlit run demo.py
+   ```
+
+For a demonstration of the Change Management Dashboard in action, please view the video below:
 
 ![Change Management Dashboard Demo](figures/change_management_demo.webm)
